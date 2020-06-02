@@ -1,0 +1,88 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+/**/
+	font-family: century gothic;
+	text-align: center;
+/**/
+}
+form{
+	margin-bottom: 30px;
+}
+
+body{
+	background-image: url('../img/blue.jpg');
+	background-repeat: no-repeat;
+}
+.userCreation{
+	width: 460px;
+	height: 770px;
+	background: #24303c;
+	padding: 30px;
+	margin: auto;
+	margin-top: 70px;
+	border-radius: 4px;
+	font-family: "Segoe UI";
+	color: white;
+	box-shadow: 7px 13px 37px #000;
+}
+
+.userCreation h4{
+	font-size: 22px;
+	margin-bottom: 20px;
+}
+
+.config{
+	width: 100%;
+	background: #24303c;
+	padding: 10px;
+	border-radius: 4px;
+	margin-bottom: 16px;
+	border :1px solid #0096d2;
+	font-family: "Segoe UI";
+	font-size: 12px;
+	color: white;
+}
+.estado{
+	margin-bottom: 24px;
+}
+
+.userCreation p{
+	height: 40px;
+	text-align: center;
+	font-size: 18px;
+}
+
+.userCreation a{
+	color: white;
+	text-decoration: none;
+}
+
+.userCreation a:hover{
+	color: white;
+	text-decoration: underline;
+}
+
+.userCreation .btn{
+	width: 100%;
+	background: #0096d2;
+	border:none;
+	padding: 12px;
+	color: white;
+	margin: 16px 0;
+	font-size: 16px;
+}
+/**/
+}
+.img{
+	width: 100%;
+	background: #24303c;
+	padding: 6px;
+	border-radius: 4px;
+	margin-bottom: 16px;
+	font-family: "Segoe UI";
+	font-size: 12px;
+	color: white;
+}
+/**/

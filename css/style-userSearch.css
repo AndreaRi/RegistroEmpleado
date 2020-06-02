@@ -1,0 +1,46 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+/**/
+	font-family: century gothic;
+/**/
+}
+body{
+	background-image: url('../img/blue.jpg');*/
+	background-repeat: no-repeat;
+}
+.userCedula{
+	width: 520px;
+	height: 230px;
+	background: #24303c;
+	padding: 30px;
+	margin: auto;
+	margin-top: 225px;
+	border-radius: 1px;
+	font-family: "Segoe UI";
+	color: white;
+	box-shadow: 7px 13px 37px #000;
+}
+
+.config{
+	width: 100%;
+	background: #24303c;
+	padding: 10px;
+	border-radius: 4px;
+	margin-top: 40px;
+	border :1px solid #0096d2;
+	font-family: "Segoe UI";
+	font-size: 12px;
+	color: white;
+}
+
+.userCedula .btn{
+	width: 100%;
+	background: #0096d2;
+	border:none;
+	padding: 12px;
+	color: white;
+	margin: 16px 0;
+	font-size: 16px;
+}
